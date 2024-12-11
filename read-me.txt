@@ -1,0 +1,12 @@
+get token:
+webservice/v1/get-token'
+
+
+pay-request:
+'webservice/v1/pay-request'
+
+pay-otp-verify:
+'webservice/v1/pay-otp-verify'
+
+pay-otp-verify:
+'webservice/v1/pay-otp-verify'
